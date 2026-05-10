@@ -1,0 +1,14 @@
+E001|Priyanka Kumari Shah|priyanka@gmail.com|employee@1|Employee|40000|Kathmandu
+E002|Sanjay Shrestha|sanjay@gmail.com|employee@2|Employee|35000|Bardiya
+E003|Ramesh Prasad Gautam|ramesh@gmail.com|employee@3|Employee|42000|Pokhara
+E004|Sita Devi Karki|sita@gmail.com|employee@4|Employee|38000|Lalitpur
+E005|Anil Kumar Thapa|anil@gmail.com|employee@5|Employee|36000|Butwal
+E006|Manisha Rai|manisha@gmail.com|employee@6|Employee|41000|Dharan
+E007|Bikash Shrestha|bikash@gmail.com|employee@7|Employee|39000|Bhaktapur
+E008|Nirmala Gurung|nirmala@gmail.com|employee@8|Employee|37000|Chitwan
+E009|Kiran Adhikari|kiran@gmail.com|employee@9|Employee|43000|Hetauda
+E010|Pooja Sharma|pooja@gmail.com|employee@10|Employee|40000|Janakpur
+E011|Deepak Bhandari|deepak@gmail.com|employee@11|Employee|45000|Nepalgunj
+E012|Sarita Magar|sarita@gmail.com|employee@12|Employee|34000|Dang
+E013|Rohit KC|rohit@gmail.com|employee@13|Employee|36000|Biratnagar
+E014|Sunita Tamang|sunita@gmail.com|employee@14|Employee|39000|Kavre
